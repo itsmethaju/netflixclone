@@ -1,0 +1,22 @@
+.NavBar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 35px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+}
+
+
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}
+
+.avathar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+}
